@@ -7,9 +7,9 @@ and admin statistics using in-memory storage.
 
 # Client
 
-go to /client
-npm install
-npm run build
+- go to /client
+- npm install
+- npm run build
 
 # Backend
 
