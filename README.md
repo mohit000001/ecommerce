@@ -22,6 +22,10 @@ http://localhost:8000
 
 ---
 
+## Tests
+
+- npm run test
+
 ## Routes
 
 ### Health Check
