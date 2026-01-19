@@ -13,9 +13,9 @@ and admin statistics using in-memory storage.
 
 # Backend
 
-add env file and configurations (port etc)
-npm install
-node --env-file=yourenv.env app.js
+- add env file and configurations (port etc)
+- npm install
+- node --env-file=yourenv.env app.js
 
 Server runs on:
 http://localhost:8000
